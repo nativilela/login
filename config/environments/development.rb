@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 Rails3Devise::Application.configure do
-=======
-Login::Application.configure do
->>>>>>> 4d57e937cab8f58f123b656f938ee5e3657e0a22
   # Settings specified here will take precedence over those in config/application.rb
 
   # In the development environment your application's code is reloaded on

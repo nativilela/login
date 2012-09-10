@@ -9,11 +9,7 @@ if defined?(Bundler)
   # Bundler.require(:default, :assets, Rails.env)
 end
 
-<<<<<<< HEAD
 module Rails3Devise
-=======
-module Login
->>>>>>> 4d57e937cab8f58f123b656f938ee5e3657e0a22
   class Application < Rails::Application
     # Settings in config/environments/* take precedence over those specified here.
     # Application configuration should go into files in config/initializers
